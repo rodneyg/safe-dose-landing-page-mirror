@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rodneyg.github.io/safe-dose-landing-page-mirror/sitemap.xml
